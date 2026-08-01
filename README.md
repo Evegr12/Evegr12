@@ -6,8 +6,8 @@
 
 Desarrollo de aplicaciones web funcionales, responsivas y orientadas a resolver necesidades reales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-6F42C1?style=for-the-badge\&logo=linkedin\&logoColor=white)](REEMPLAZAR_CON_TU_LINKEDIN)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-C2185B?style=for-the-badge\&logo=vercel\&logoColor=white)](REEMPLAZAR_CON_TU_PORTAFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-6F42C1?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/evelin-garcia-romero)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-C2185B?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portafolio-evelin-garcia.vercel.app)
 [![Correo](https://img.shields.io/badge/Correo-Contacto-8E44AD?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:evelin.garciaromero12@gmail.com)
 
 </div>
@@ -147,8 +147,8 @@ Busco una oportunidad como **Java Developer, Backend Developer o Full Stack Deve
 ## Contacto
 
 * **Correo:** [evelin.garciaromero12@gmail.com](mailto:evelin.garciaromero12@gmail.com)
-* **LinkedIn:** [Agregar perfil de LinkedIn](REEMPLAZAR_CON_TU_LINKEDIN)
-* **Portafolio:** [Visitar portafolio](REEMPLAZAR_CON_TU_PORTAFOLIO)
+* **LinkedIn:** [Agregar perfil de LinkedIn](https://portafolio-evelin-garcia.vercel.app/)
+* **Portafolio:** [Visitar portafolio](https://portafolio-evelin-garcia.vercel.app/)
 * **Ubicación:** Ciudad de México, México
 
 ---
