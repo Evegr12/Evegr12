@@ -1,4 +1,4 @@
-# Hola, soy Evelin García Romero 👋
+# Hola, soy Evelin García Romero 
 
 ## Java Full Stack Developer
 
