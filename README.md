@@ -6,7 +6,7 @@
 
 Desarrollo de aplicaciones web funcionales, responsivas y orientadas a resolver necesidades reales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-6F42C1?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/evelin-garcia-romero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-6F42C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelin-garcia-romero)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-C2185B?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portafolio-evelin-garcia.vercel.app)
 [![Correo](https://img.shields.io/badge/Correo-Contacto-8E44AD?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:evelin.garciaromero12@gmail.com)
 
