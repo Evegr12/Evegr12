@@ -147,7 +147,7 @@ Busco una oportunidad como **Java Developer, Backend Developer o Full Stack Deve
 ## Contacto
 
 * **Correo:** [evelin.garciaromero12@gmail.com](mailto:evelin.garciaromero12@gmail.com)
-* **LinkedIn:** [Agregar perfil de LinkedIn](https://portafolio-evelin-garcia.vercel.app/)
+* **LinkedIn:** [Agregar perfil de LinkedIn](https://www.linkedin.com/in/evelin-garcia-romero)
 * **Portafolio:** [Visitar portafolio](https://portafolio-evelin-garcia.vercel.app/)
 * **Ubicación:** Ciudad de México, México
 
